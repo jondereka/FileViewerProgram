@@ -1,0 +1,5 @@
+This is the test file
+Looking for the target word
+Can the search command find it
+Continue
+More lines
